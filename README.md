@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ofekMr168
 - 👀 I’m interested in python, full web stuck
-- 🌱 I’m currently learning b.c.s in ariel
+- 🌱 I’m currently learning b.c.s on The open university
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ofekmori1285@gmail.com
 
